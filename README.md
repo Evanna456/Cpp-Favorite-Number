@@ -13,8 +13,6 @@
 * [Website](https://isocpp.org/)
 * [Documentation](https://docs.microsoft.com/en-us/cpp/)
 
-## Author's Notes
-
 ## License
 
 Cpp-Favorite-Number is licensed under [MIT](https://choosealicense.com/licenses/mit/)
